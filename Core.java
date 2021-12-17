@@ -11,5 +11,7 @@ public static void main[]{
     System.out.println(coreName);
 }
 
-
+public void randomMethod(){
+    System.out.println(strength)
+}
 }

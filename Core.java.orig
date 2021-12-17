@@ -1,0 +1,25 @@
+public class Core{
+
+public int coreId;
+public String coreName = "Hello World!";
+public boolean strength;
+
+public String newChange = "This is a new change";
+
+<<<<<<< HEAD
+public String changeOnPc = "Ill change it on the pc";
+// this is the second fault for mergetool 
+
+=======
+    public double problematicChange;
+    //this is the change for a mergetool usage
+>>>>>>> 00114c133b1a772924378fd620dc45005fe5a47c
+
+public static void main[]{
+    System.out.println(coreName);
+}
+
+public void randomMethod(){
+    System.out.println(strength)
+}
+}

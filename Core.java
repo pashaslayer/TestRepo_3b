@@ -19,6 +19,8 @@ public static void main[]{
     
     public String textToMergeAtHome = "This will be a text to merge at home";
     // 1. I changed Core.java and put this String variable inside to see whether the merging tool is working fine!
+
+    public String textToMergeAtHome2 = "This will be a text to merge at the pc";
     
 }
 

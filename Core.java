@@ -16,6 +16,10 @@ public String changeOnPc = "Ill change it on the pc";
 
 public static void main[]{
     System.out.println(coreName);
+    
+    public String textToMergeAtHome = "This will be a text to merge at home";
+    // 1. I changed Core.java and put this String variable inside to see whether the merging tool is working fine!
+    
 }
 
 public void randomMethod(){

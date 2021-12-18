@@ -6,17 +6,26 @@ public boolean strength;
 
 public String newChange = "This is a new change";
 
-<<<<<<< HEAD
 public String changeOnPc = "Ill change it on the pc";
 // this is the second fault for mergetool 
 
-=======
     public double problematicChange;
     //this is the change for a mergetool usage
->>>>>>> 00114c133b1a772924378fd620dc45005fe5a47c
+    
+   // this is the combined merge 
 
 public static void main[]{
     System.out.println(coreName);
+    
+    public String textToMergeAtHome = "This will be a text to merge at home";
+    // 1. I changed Core.java and put this String variable inside to see whether the merging tool is working fine!
+<<<<<<< HEAD
+
+    public String textToMergeAtHome2 = "This will be a text to merge at the pc";
+=======
+    // 2. then I pulled the file to see whether it will change, it did not so Ill try changing it here with this text and on the main PC
+>>>>>>> 90a53a46cb9ae77dc86ef47f43b66e03a98a9ea9
+    
 }
 
 public void randomMethod(){
